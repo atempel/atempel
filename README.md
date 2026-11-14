@@ -1,4 +1,4 @@
-# Alexandre Tempel
+# About me
 
 Product designer in São Paulo. I've spent 16 years moving between advertising, UX and software, and these days most of my work happens where design, engineering and AI overlap: context engineering, agent workflows, and the methods that make AI tools useful for real work. I also write about design and AI, in English and Portuguese.
 
